@@ -1,0 +1,1 @@
+/home/sky/Work/Projects/rustlings/target/release/rustlings: /home/sky/Work/Projects/rustlings/src/exercise.rs /home/sky/Work/Projects/rustlings/src/main.rs /home/sky/Work/Projects/rustlings/src/project.rs /home/sky/Work/Projects/rustlings/src/run.rs /home/sky/Work/Projects/rustlings/src/ui.rs /home/sky/Work/Projects/rustlings/src/verify.rs
