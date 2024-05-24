@@ -1,0 +1,13 @@
+/home/sky/Projects/rustlings/target/debug/deps/libindicatif-94bd8fb1c7531a68.rmeta: /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/lib.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/draw_target.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/format.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/iter.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/multi.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/progress_bar.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/state.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/style.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/term_like.rs
+
+/home/sky/Projects/rustlings/target/debug/deps/indicatif-94bd8fb1c7531a68.d: /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/lib.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/draw_target.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/format.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/iter.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/multi.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/progress_bar.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/state.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/style.rs /home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/term_like.rs
+
+/home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/lib.rs:
+/home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/draw_target.rs:
+/home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/format.rs:
+/home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/iter.rs:
+/home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/multi.rs:
+/home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/progress_bar.rs:
+/home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/state.rs:
+/home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/style.rs:
+/home/sky/.cargo/registry/src/index.crates.io-6f17d22bba15001f/indicatif-0.17.8/src/term_like.rs:
