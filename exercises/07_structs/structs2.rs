@@ -39,8 +39,10 @@ mod tests {
         // TODO: Create your own order using the update syntax and template above!
         
         let your_order = Order {
-            
-        }
+            name: "Hacker in Rust".to_string(),
+            count: 1,
+            ..order_template
+        };
         
         
         
