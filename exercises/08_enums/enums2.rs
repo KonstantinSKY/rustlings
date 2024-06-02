@@ -7,7 +7,10 @@
 
 #[derive(Debug)]
 enum Message {
-    // TODO: define the different variants used below
+    Quit, 
+    Move { x: i32, y: i32 }, // Anonymous struct
+    Echo(String), // Single String
+    ChangeColor(u8, u8, u8), // Three u8 values
 }
 
 impl Message {
