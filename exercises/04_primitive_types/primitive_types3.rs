@@ -5,8 +5,6 @@
 // Execute `rustlings hint primitive_types3` or use the `hint` watch subcommand
 // for a hint.
 
-// I AM NOT DONE
-
 fn main() {
     let a:[u8; 101] = [
         12, 32, 34, 92, 34, 23, 55, 12, 23, 23, 232,
