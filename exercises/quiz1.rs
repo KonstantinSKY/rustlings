@@ -17,7 +17,7 @@
 
 // Put your function here!
 // fn calculate_price_of_apples {
-
+// I AM NOT DONE
 // Don't modify this function!
 #[test]
 fn verify_test() {
