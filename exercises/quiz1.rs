@@ -16,7 +16,6 @@
 
 // Put your function here!
 // fn calculate_price_of_apples {
-// I AM NOT DONE
 // Don't modify this function!
 
 fn calculate_price_of_apples(apples: i32) -> i32 {
